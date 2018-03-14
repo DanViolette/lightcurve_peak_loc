@@ -19,8 +19,6 @@ setup(name='lightcurve_peak_loc',
           'datetime',
           'statsmodels',
           'seaborn',
-          'os',
-          'pickle',
       ],
       test_suite='nose.collector',
       zip_safe = False)
